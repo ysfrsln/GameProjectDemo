@@ -15,7 +15,7 @@ namespace GameProjectDemo
         {
             Player player = new Player();
             player.Id = 1;
-            player.NationalityId = "10073920204";
+            player.NationalityId = "12345678900";
             player.FirstName = "Yusuf";
             player.LastName = "Eraslan";
             player.DateOfBirth = new DateTime(1989, 02, 23);
